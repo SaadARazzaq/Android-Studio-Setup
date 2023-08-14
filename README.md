@@ -32,4 +32,8 @@ https://www.youtube.com/watch?v=XHZ1CyIBKD8
 
 ![image](https://github.com/SaadARazzaq/Android-Studio-Setup/assets/123338307/2d64cd7a-ec22-4546-bebf-bbb2d1b60072)
 
+----------------------------------------------------------------------------------------------------------
 
+➡️For JDK Setup, watch below:
+
+https://www.youtube.com/watch?v=lm7o1PrQOBo
